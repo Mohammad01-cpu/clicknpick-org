@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://hausprofi.de/</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://hausprofi.de/images/water_filter.jpg</image:loc>
+            <image:caption>Premium Wasserfilter System</image:caption>
+            <image:title>Wasserfilter für sauberes Trinkwasser</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://hausprofi.de/images/coffee_machine.jpg</image:loc>
+            <image:caption>Smart Kaffeemaschine</image:caption>
+            <image:title>Intelligente Kaffeemaschine mit App-Steuerung</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://hausprofi.de/images/food_box.jpg</image:loc>
+            <image:caption>Deutsche Gourmet Box</image:caption>
+            <image:title>Regionale Spezialitäten aus Deutschland</image:title>
+        </image:image>
+    </url>
+    
+    <!-- Product Pages -->
+    <url>
+        <loc>https://hausprofi.de/wasserfilter</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://hausprofi.de/kaffeemaschine</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://hausprofi.de/food-box</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Category Pages -->
+    <url>
+        <loc>https://hausprofi.de/haushaltsprodukte</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://hausprofi.de/kuechengeraete</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Review Pages -->
+    <url>
+        <loc>https://hausprofi.de/bewertungen</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Legal Pages -->
+    <url>
+        <loc>https://hausprofi.de/impressum</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://hausprofi.de/datenschutz</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://hausprofi.de/agb</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+    <url>
+        <loc>https://hausprofi.de/affiliate-hinweis</loc>
+        <lastmod>2025-01-24</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    
+</urlset>
+
